@@ -7,7 +7,7 @@ requests module is needed and not pre-installed so make sure you download it usi
     pip install requests
 </pre>
 
-## Usage
+## Usage
 After downloading the "requests" module replace BOT_TOKEN in line 4 with your bot token then navigate from cmd in the script directory and run the script to grab the Chat ID with:
 <pre>
     python chatid_grabber.py
